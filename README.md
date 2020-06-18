@@ -51,6 +51,7 @@
 - [Platforms](#platforms)
     - [Amazon Web Services](#amazon-web-services)
     - [Android](#android)
+    - [Firebase](#firebase)
     - [Heroku](#heroku)
     - [iOS](#ios)
     - [IoT](#iot)
@@ -363,7 +364,6 @@
 
 * [aws](https://www.reddit.com/r/aws) - News, articles and tools covering Amazon Web Services.
 
-
 ### Android
 
 * [Android](https://www.reddit.com/r/Android/)
@@ -371,10 +371,13 @@
 * [androiddev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where, when and how of the Android community.
 * [androidthemes](https://www.reddit.com/r/androidthemes)
 
+### Firebase
+
+* [Firebase](https://www.reddit.com/r/Firebase)
+
 ### Heroku
 
 * [Heroku](https://www.reddit.com/r/Heroku/)
-
 
 ### iOS
 
